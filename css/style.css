@@ -65,7 +65,7 @@ text-align: left;
  display: flex;
  justify-content: left;
  width: 20rem;
-
+font-size: 0.8rem;
     margin-right: 60rem;
 
  }
@@ -99,6 +99,11 @@ background: linear-gradient(rgb(0, 0, 0), rgb(255, 255, 255));
         background-clip: text;
 -webkit-text-fill-color: transparent;
 
+}
+
+.time{
+
+    font-size: 0.7rem;
 }
 
 

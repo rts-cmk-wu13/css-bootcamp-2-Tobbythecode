@@ -12,17 +12,24 @@ html{
 
 header{
 
-
+margin-bottom: 2rem;
 }
 .logo{
     display: flex;
     justify-content:space-between ;
+    padding-block: 0.8rem;
 }
 ul{
     display: flex;
     justify-content: space-evenly;
 list-style: none;
 }
+
+main{
+
+    margin-block: 1rem;
+}
+
 
 main article h1{
 font-size: 2rem;
@@ -63,12 +70,22 @@ text-align: left;
 
  }
 footer{
-
+margin-block: 1rem;
     background-color: #D7D7D7;
+    color: #474747;
+}
+
+footer h3 ul p{
+
+margin-block: 0.8rem;
 }
 
 
-
+.overopacity{    font-size: 1rem; 
+    width: 36rem;
+    display: flex;
+justify-self: center;
+text-align: left;}
 
 .opacity_text{
   
@@ -77,6 +94,10 @@ footer{
     display: flex;
 justify-self: center;
 text-align: left;
+background: linear-gradient(rgb(0, 0, 0), rgb(255, 255, 255));
+-webkit-background-clip: text;
+        background-clip: text;
+-webkit-text-fill-color: transparent;
 
 }
 
@@ -86,6 +107,11 @@ display: flex;
 
 
 
+
+}
+
+.graytext{
+color: #7D7D7D;
 
 }
 

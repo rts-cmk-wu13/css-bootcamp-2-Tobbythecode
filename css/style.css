@@ -1,0 +1,271 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+
+    font-family: copse;
+}
+
+header{
+
+margin-bottom: 2rem;
+}
+.logo{
+    display: flex;
+    justify-content:space-between ;
+    padding-block: 0.8rem;
+}
+ul{
+    display: flex;
+    justify-content: space-evenly;
+list-style: none;
+}
+
+main{
+
+    margin-block: 1rem;
+}
+
+
+main article h1{
+font-size: 2rem;
+width: 36rem;
+display: flex;
+justify-self: center;
+text-align: left;
+
+}
+
+article p{
+
+    font-size: 1rem; 
+    width: 36rem;
+    display: flex;
+justify-self: center;
+text-align: left;
+}
+
+.navbar{
+
+    box-shadow: 5px  1px 10px 5px hsl(0 0 0 / 20%);
+    border-color: #999999;
+}
+
+.info{
+
+    text-align: center;
+    margin-left: 10rem;
+}
+ .undertext{
+
+ display: flex;
+ justify-content: left;
+ width: 20rem;
+font-size: 0.8rem;
+    margin-right: 60rem;
+
+ }
+footer{
+margin-block: 1rem;
+    background-color: #D7D7D7;
+    color: #474747;
+}
+
+footer h3 ul p{
+
+margin-block: 0.8rem;
+}
+
+
+.overopacity{    font-size: 1rem; 
+    width: 36rem;
+    display: flex;
+justify-self: center;
+text-align: left;}
+
+.opacity_text{
+  
+    font-size: 1rem; 
+    width: 36rem;
+    display: flex;
+justify-self: center;
+text-align: left;
+background: linear-gradient(rgb(0, 0, 0), rgb(255, 255, 255));
+-webkit-background-clip: text;
+        background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+
+.time{
+
+    font-size: 0.7rem;
+}
+
+
+.gridsidk{
+display: flex;
+
+
+
+
+}
+
+.ul1{
+margin-block: 1rem;
+
+}
+
+.graytext{
+color: #7D7D7D;
+
+}
+
+.footertitle{
+    padding-block: 1rem;
+    font-size: 1.5rem;
+}
+
+.seriøs{
+
+    text-align: center;
+}
+.redbtn{
+
+    background-color:#DD0000 ;
+    border: none;
+    color: white;
+    display: flex;
+    justify-self: center ;
+    text-align: center;
+    padding-block: 0.8rem;
+    padding-inline: 4rem;
+    border-radius: 0.5rem;
+}
+
+.log{
+padding-top: 1rem;
+    text-align: center;
+}
+
+.time{
+
+    display: flex;
+
+}
+
+.redtext{
+
+    color: red;
+}
+
+.test{
+
+    display: flex;
+    padding: 1rem;
+}
+
+ 
+
+.seneste_nyt{
+    display: flex;
+    flex-direction: column;
+    width: 10rem;
+}
+
+.seneste_nyt, li{
+padding-block: 0.3rem;
+
+}
+
+.socials{
+
+padding-inline: 1rem;
+padding-block: 0.7rem;
+    color: white;
+    border: none;
+    text-align: center;
+  
+
+}
+
+.fb{
+
+  
+ 
+  background-color: #306199;
+
+}
+
+.twt{
+   
+   
+ background-color: #26C4F1;
+
+}
+
+.email{
+ 
+
+background-color: #999999;
+
+}
+
+
+.comment{
+
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    padding-block: 0.9rem;
+}
+
+.bruger{
+
+    text-align: center;
+    color: #878787;
+}
+
+.grid{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.lefttext{
+
+display: flex;
+margin-right: 45rem;
+}
+
+
+.footerbtn{
+
+    padding-inline: 1.4rem;
+    padding-block: 1rem;
+    border: none;
+    margin-block: 1rem;
+    color: #474747;
+}
+
+.tilmeldbtn{
+
+    
+    padding-inline: 1.4rem;
+    padding-block: 1rem;
+    border: none;
+    margin-block: 1rem;
+    color: #474747;
+}
+
+.input{
+
+    border: none;
+    padding-block: 0.8rem;
+    padding-inline: 0.8rem;
+}

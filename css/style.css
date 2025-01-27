@@ -177,6 +177,10 @@ padding-top: 1rem;
     width: 10rem;
 }
 
+.seneste_nyt, li{
+padding-block: 0.3rem;
+
+}
 
 .socials{
 

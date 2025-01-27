@@ -41,7 +41,7 @@ text-align: left;
 .navbar{
 
     box-shadow: 5px  1px 10px 5px hsl(0 0 0 / 20%);
-    
+    border-color: #999999;
 }
 
 .info{
@@ -140,7 +140,7 @@ padding-block: 0.7rem;
     color: white;
     border: none;
     text-align: center;
-
+  
 
 }
 
@@ -185,4 +185,11 @@ background-color: #999999;
     display: flex;
     align-items: center;
     flex-direction: column;
+}
+
+
+.lefttext{
+
+display: flex;
+margin-right: 45rem;
 }

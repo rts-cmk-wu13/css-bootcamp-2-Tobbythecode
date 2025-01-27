@@ -47,12 +47,23 @@ text-align: left;
 .info{
 
     text-align: center;
+    margin-left: 10rem;
 }
+ .undertext{
 
+ display: flex;
+ justify-content: left;
+ width: 20rem;
+
+    margin-right: 60rem;
+
+ }
 footer{
 
     background-color: #D7D7D7;
 }
+
+
 
 
 .opacity_text{
@@ -66,9 +77,112 @@ text-align: left;
 }
 
 
-article img{
+.gridsidk{
+display: flex;
 
 
 
 
+}
+
+.seriøs{
+
+    text-align: center;
+}
+.redbtn{
+
+    background-color:#DD0000 ;
+    border: none;
+    color: white;
+    display: flex;
+    justify-self: center ;
+    text-align: center;
+    padding-block: 0.8rem;
+    padding-inline: 4rem;
+    border-radius: 0.5rem;
+}
+
+.log{
+padding-top: 1rem;
+    text-align: center;
+}
+
+.time{
+
+    display: flex;
+
+}
+
+.redtext{
+
+    color: red;
+}
+
+.test{
+
+    display: flex;
+    padding: 1rem;
+}
+
+ 
+
+.seneste_nyt{
+    display: flex;
+    flex-direction: column;
+    width: 10rem;
+}
+
+
+.socials{
+
+padding-inline: 1rem;
+padding-block: 0.7rem;
+    color: white;
+    border: none;
+    text-align: center;
+
+
+}
+
+.fb{
+
+  
+ 
+  background-color: #306199;
+
+}
+
+.twt{
+   
+   
+ background-color: #26C4F1;
+
+}
+
+.email{
+ 
+
+background-color: #999999;
+
+}
+
+
+.comment{
+
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    padding-block: 0.9rem;
+}
+
+.bruger{
+
+    text-align: center;
+    color: #878787;
+}
+
+.grid{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
 }

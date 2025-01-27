@@ -248,3 +248,20 @@ margin-right: 45rem;
     margin-block: 1rem;
     color: #474747;
 }
+
+.tilmeldbtn{
+
+    
+    padding-inline: 1.4rem;
+    padding-block: 1rem;
+    border: none;
+    margin-block: 1rem;
+    color: #474747;
+}
+
+.input{
+
+    border: none;
+    padding-block: 0.8rem;
+    padding-inline: 0.8rem;
+}
